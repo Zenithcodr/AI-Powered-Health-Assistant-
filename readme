@@ -3,3 +3,10 @@ it is develped with the help of python
 the users can talk with the bot and get suggestions regarding their health instead of spendng time and money on doctors
 link to my project
 https://fetbtubbg6xmwycjsjcygt.streamlit.app/ 
+although now its a simple webapage as i have used an already trained model to develop this project.
+The technologies used are :-
+streamlit
+transformers
+tensorflow
+nltk
+tf-keras
